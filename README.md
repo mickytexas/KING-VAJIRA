@@ -17,7 +17,8 @@
     
  ***Get [SESSION-ID](https://replit.com/@VajiraRathnayak/KING-VAJIRA-1?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
   ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
-## Heroku Deployment Method
+
+<b><details><summary>Deployment Methods</summary></b>
  
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/vajirabot1/KING-VAJIRA)
 
@@ -33,7 +34,11 @@
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/DileepaTech/Queen-Nithya-MD)
 
-NITHYA whatsapp bot is,
+</p>
+
+</details>
+
+VAJIRA whatsapp bot is,
 
       VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
