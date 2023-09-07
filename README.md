@@ -9,13 +9,13 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/DileepaTech">
+<a href="https://github.com/vajirabot1">
     <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" width="700px">
   </a>
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
- ***Get [SESSION-ID](https://replit.com/@yasasdileepara1/QUEEN-NITHYA-MD?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+ ***Get [SESSION-ID](https://replit.com/@VajiraRathnayak/KING-VAJIRA-1?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
   ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
 ## Heroku Deployment Method
  
