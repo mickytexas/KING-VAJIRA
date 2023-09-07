@@ -54,6 +54,10 @@ VAJIRA whatsapp bot is,
 
       VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
+>mod whatsapp භාවිතා කරනවනම්!
+>FOUD MODS පාවිච්චි කිරිමෙන් වලකින්න.
+
+>ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
 
   
  <b><details><summary>Doesn't work, paste these commands in repl shell</summary></b>
