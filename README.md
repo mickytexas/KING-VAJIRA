@@ -27,7 +27,7 @@
   ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
 
 
-  ## Touch the name '👇Deployment Methods👇
+  ## Touch the name '👇Deployment Methods👇 to deploy the bot
 
 <b><details><summary>Deployment Methods</summary></b>
 
