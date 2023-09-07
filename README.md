@@ -18,23 +18,19 @@
   
 ## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="http://nithyabot.42web.io/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 
-<br>
-<br>
 
-
-  **SCAN QR CODE
+  ** SCAN QR CODE
     
  [![Scan Qr Code](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-1?v=1)
  
-<br>
-<br>
-
  
   ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
+
 
   ## Touch the name '👇Deployment Methods👇
 
 <b><details><summary>Deployment Methods</summary></b>
+
  
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/vajirabot1/KING-VAJIRA)
 
