@@ -39,10 +39,10 @@ NITHYA whatsapp bot is,
 
 
   
- 
+ <b><details><summary>Doesn't work, paste these commands in repl shell</summary></b>
 
 
-**RUN*** Doesn't work, paste these commands in repl shell
+
 
 ```
 yarn
@@ -62,6 +62,10 @@ Copy the JSON down and paste in repl then fill the vars
    
 }
 ```
+
+</p>
+
+</details>
  
 <br>
 <div>
