@@ -22,14 +22,13 @@
 <br>
 
 
-  ## SCAN QR CODE
-
-<br>
-<br>
-
+  **SCAN QR CODE
     
  [![Scan Qr Code](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@VajiraRathnayak/KING-VAJIRA-1?v=1)
  
+<br>
+<br>
+
  
   ***Click [FORK](https://github.com/vajirabot1/KING-VAJIRA/fork)***
 
