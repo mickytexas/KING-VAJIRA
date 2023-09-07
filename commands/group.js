@@ -126,7 +126,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `HMM Group link eka denne ay man qr eka scan karaddi join wenna athine neh`,
+            caption: `HMM Group link eka danne na Qr eka scan kalama auto join wenna athi neda`,
         });
 
     }
