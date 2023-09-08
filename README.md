@@ -8,6 +8,10 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=King+Vajira+Md+;Created+By+Vajira" alt="Typing SVG" /></a>
+</p> 
+
    <p align="center">
 <a href="https://github.com/vajirabot1">
     <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" width="700px">
