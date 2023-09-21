@@ -10,9 +10,9 @@ const fs = require('fs-extra')
  global.github = 'https://github.com/vajirabot1' 
  global.location = 'Sri lanka, Rathnapura' 
  global.gurl = 'https://instagram.com/' // add your username 
- global.sudo = process.env.SUDO || '919628516236' 
- global.devs = '919628516236'; 
- global.website = 'https://github.com/' //wa.me/+91000000000000 
+ global.sudo = process.env.SUDO || '2347018087851' 
+ global.devs = '2347018087851'; 
+ global.website = 'https://github.com/' //wa.me/+2347018087851 
  global.THUMB_IMAGE = process.env.THUMB_IMAGE || '' 
  module.exports = { 
    botname:   process.env.BOT_NAME === undefined ? '' : process.env.BOT_NAME, 
